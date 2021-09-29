@@ -1,0 +1,4 @@
+name: finance-env
+channels:
+  - defaults
+prefix: C:\Users\jlo.CLFPNET\.conda\envs\finance-env
